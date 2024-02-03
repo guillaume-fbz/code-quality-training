@@ -2,7 +2,7 @@
 
 ## Chapter 1 : 
 
-Install prerequisites :
+## Ex1 : Install prerequisites
 
      PyCharm
      Python v3.8 +
@@ -13,15 +13,11 @@ Isolated development environment setup :
      python3 -m venv venv
      source venv/bin/activate
 
-## Chapter 2 : 
+Check :
 
-TBD
+     python --version
 
-## Chapter 3 : 
-
-TBD
-
-## Chapter 4 : Unit Test and Coverage
+## Chapter 2 : Unit Test and Coverage
 
 ## Ex1 : Verlan
 Implement a function named "verlan" that takes a string as input and returns a new string
@@ -40,8 +36,19 @@ Add units test after implementation.
 ## Ex2 : Student
 Add unit tests on student.py class (available in this repository) and then generate a test coverage report using pytest-cov.
 
+## Chapter 3 : Apply Code Quality to a Python Program
 
-## Chapter 5 : Test Driven Development (TDD)
+## Ex1 : Ugly Car
+
+You can find ugly_car.py in this repository.
+
+- Read
+- Run
+- Improve it :)
+
+Tips : Unit tests, PEP, Formatters, Linters, Code analysis tools
+
+## Chapter 4 : Test Driven Development (TDD)
 
 ## Ex1 : FizzBuzz Kata
 FizzBuzz is a programming challenge. Write a program that prints one line for each number from 1 to 100.\
