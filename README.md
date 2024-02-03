@@ -1,5 +1,26 @@
 # CQT
 
+## Chapter 1 : 
+
+Install prerequisites :
+
+     PyCharm
+     Python v3.8 +
+     virtualenv
+
+Isolated development environment setup :
+
+     python3 -m venv venv
+     source venv/bin/activate
+
+## Chapter 2 : 
+
+TBD
+
+## Chapter 3 : 
+
+TBD
+
 ## Chapter 4 : Unit Test and Coverage
 
 ## Ex1 : Verlan
