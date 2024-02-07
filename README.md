@@ -32,7 +32,7 @@ Example:
      input: verlan("  Hello World  ")
      output: "dlrow olleh"
 
-Add units test after implementation.
+Add unit tests after implementation.
 
 ## Ex2 : Student
 Add unit tests on student.py class (available in this repository) and then generate a test coverage report using pytest-cov.
