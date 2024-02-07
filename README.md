@@ -32,10 +32,10 @@ Example:
      input: verlan("  Hello World  ")
      output: "dlrow olleh"
 
-Add unit tests after implementation.
+Add unit tests with pytest after implementation.
 
 ## Ex2 : Student
-Add unit tests on student.py class (available in this repository) and then generate a test coverage report using pytest-cov.
+Add unit tests with pytest on student.py class (available in this repository) and then generate a test coverage report using pytest-cov.
 
 ## Chapter 3 : Apply Code Quality to a Python Program
 
