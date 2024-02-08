@@ -43,8 +43,8 @@ Add unit tests with pytest on student.py class (available in this repository) an
 
 You can find ugly_car.py in this repository.
 
-- Read
-- Run
+- Read it
+- Run it
 - Improve it :)
 
 Tips : Unit tests, PEPs (8 - 20 - 257 - 484 - 526 - 311 - 498...), Formatters, Linters, Code analysis tools
