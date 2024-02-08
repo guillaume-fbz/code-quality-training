@@ -38,4 +38,6 @@ myCar.display_info()
 
 myCar_description = "This car is beautiful :)"
 
+exec("hello !")
+
 print(myCar)
