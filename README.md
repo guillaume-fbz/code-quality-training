@@ -47,7 +47,7 @@ You can find ugly_car.py in this repository.
 - Run
 - Improve it :)
 
-Tips : Unit tests, PEP, Formatters, Linters, Code analysis tools
+Tips : Unit tests, PEPs (8 - 20 - 257 - 484 - 526 - 311 - 498...), Formatters, Linters, Code analysis tools
 
 ## Chapter 4 : Test Driven Development (TDD)
 
